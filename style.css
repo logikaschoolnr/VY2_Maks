@@ -1,0 +1,37 @@
+body{
+    margin: 0 auto;
+    max-width: 1000px;
+
+    }
+.pimg{
+    text-align: center;
+}
+h1{
+    color: blue;
+}
+h2{
+   color: rgb(116, 116, 255);
+   font-size:45px;  
+}
+main{
+font-size: 35px;
+background-color: rgb(183, 248, 248);
+}
+html{
+background-color: rgb(151, 255, 255);
+
+}
+footer{
+font-size: 25px;
+
+}
+
+
+nav{
+    text-align: center;
+    background-color: aquamarine;
+font-size: 35px;
+color: rgb(141, 207, 185)
+
+}
+
